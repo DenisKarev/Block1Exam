@@ -19,4 +19,4 @@ ___
  
 ### 4. возвращаем новый массив
  
-![Block1Exam-Algo.drawio.png](Algorithm)
+![Algorithm](Block1Exam-Algo.drawio.png)
